@@ -1,0 +1,95 @@
+Education
+
+2024
+Vidyalankar Institute of Technology Wadala, MH
+B.E Computer Engineering
+9.2 CGPA/ 3.74 GPA
+
+2020
+CHM college Ulhasnagar, MH
+12th-HSC Board Science
+82.15%
+
+Skills
+
+Predictive modelling
+Forecasting and planning
+Project management
+SQL
+HTML and XML
+JavaScript
+Database management software
+
+Python
+PHP
+Problem Solving
+MongoDB
+CSS
+C, C++
+Software applications
+
+Experience
+
+September 2023 - October 2023
+Sync Interns
+Artificial Intelligence Intern
+
+Worked to build a system to detect diseases in plants with accuracy up to 98%.
+learned about various data mining algorithms like random forest to reduce overfitting by almost 35%.
+learned how to choose and use a data set for training and preprocessing.
+Presented information using data visualization techniques, proposing solutions and strategies to drive change and solve problems.
+Assessed linkages between system components and implemented improvements to optimize connectivity, compatibility and functionality to reduce the time of prediction by almost 30%.
+
+August 2023 - September 2023
+Code Clause
+Python Developer
+
+Planned short and long-term delivery objectives for development to keep projects on point with deadlines.
+Developed multiple python projects to generate secure passwords for different social media accounts working with 4 team members and 2 industry expert mentors.
+learned various libraries and functions of python like Tkinter, pyperclip etc.
+Also developed an UI for a calculator as a task.
+Learned industry-specific software and application products to actively provide support and improved the scalability of the application to increase the no. of users by 100%.
+
+December 2022 - January 2023
+The Sparks Foundation
+Web Developer Intern
+
+Developed a banking website which perform basic functions of a banking system like transferring funds checking balance etc. with a team of 3 members.
+Divided the work of styling by giving each member a different page of the website to improve the work efficiency by 50% and to learn variety of CSS frameworks.
+Learned how to connect database to a webpage.
+Dedicated time to personal growth, attending regular training to broaden web development capabilities.
+Tested links to identify and rectify discrepancies, determine speed and gauge traffic helping to reduce the traffic by 70%.
+
+Certifications
+
+Blockchain Technology - a quick introduction :
+
+Learned how blockchain technology works in various sectors like finance, healthcare etc.
+Learned about decentralized networks and how cryptocurrencies are mined and transacted.
+
+Cloud Computing :
+
+Basics of cloud computing and services offered by various companies like Microsoft Azure, AWS.
+Made a project using EC2 and Sagemaker services provided by AWS.
+
+Projects
+
+ Blog Website :
+
+The website allows different users to create their own page and upload their blogs.
+The homepage shows the most trending blogs on the website.
+Learned about web development and how javascript is used in building websites. Learned about mongoDB.
+Learned about different CSS frameworks like Bootstrap, tailwind CSS, Semantic UI etc.
+
+ Movie recommendation system :
+
+The system suggest an user about what movie to watch next based on their earlier watch history.
+The system works on content based filtering.
+Learned about linear regression and about data warehousing.
+
+Volunteer Experience
+
+ Rotaract International District 3142:
+
+General Body Member, Rotaract Club of Ambernath North (September 2021-August 2022) : Attended various community service projects including beach cleaning drive, clothes donation drive etc.
+Board of Director, Rotaract Club of Ambernath Smartcity (August 2023-present) : I was the chairperson for projects like blood donation drives and food donation drives. Was the Sports Director of the club for the year 2023-24. Organized various sports tournaments like cricket, football as well as esports tournaments managing more than 100 participants.
